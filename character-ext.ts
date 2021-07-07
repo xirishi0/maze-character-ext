@@ -53,4 +53,5 @@ namespace Character{
         //% block="右"
         right = 3,
     }
+
 }
