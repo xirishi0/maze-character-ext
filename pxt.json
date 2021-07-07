@@ -4,8 +4,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "maze-baseext": "github:xirishi0/maze-baseext#v0.0.1",
-        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.1"
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.1",
+        "maze-base-ext": "github:xirishi0/maze-baseext#v0.0.2"
     },
     "files": [
         "main.blocks",
